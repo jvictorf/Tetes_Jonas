@@ -1,3 +1,8 @@
 Teste de commit para atualizar o arquivo no repo on-line
 
+<<<<<<< HEAD
 Fernandes
+=======
+teste
+csafcafafc
+>>>>>>> 206c37741a8e559cebb88a4015be94ab20ce3e77
